@@ -37,5 +37,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "postcss-normalize": "^10.0.1",
+    "react-app-rewire-postcss": "^3.0.2",
+    "react-app-rewired": "^2.2.1"
   }
 }

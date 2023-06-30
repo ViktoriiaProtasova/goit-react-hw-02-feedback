@@ -3,7 +3,6 @@ import { Component } from 'react';
 import Section from './Section/Section';
 import FeedbackOptions from './FeedbackOptions/FeedbackOptions';
 import Statistics from './Statistics/Statistics';
-
 class App extends Component {
   state = {
     good: 0,
@@ -65,4 +64,5 @@ class App extends Component {
     );
   }
 }
+
 export default App;
